@@ -26,9 +26,6 @@
 
 I am an **AI/ML-focused Computer Engineering student** with strong expertise in Machine Learning, Deep Learning, and Natural Language Processing (NLP). I am experienced in building multimodal ML systems, recommendation engines, and CNN-based computer vision models. I love designing end-to-end scalable pipelines, data preprocessing pipelines, and deploying intelligent systems to solve real-world challenges.
 
-*   🏫 **Education:** 
-    *   **B.E. in Computer Engineering** at *LDRP Institute of Technology & Research (KSV), Gandhinagar* (Expected Apr 2027 | GPA: 8.30)
-    *   **Diploma in Computer Engineering** at *Government Polytechnic, Porbandar* (Jun 2021 - Apr 2024 | GPA: 8.20)
 *   💻 **Currently Building:** Contextual NLP models and hybrid deep learning architectures for text and multimodal sequence predictions.
 *   🔍 **Focus Areas:** Deep Learning, Natural Language Processing (NLP), Multimodal Machine Learning, and Full-Stack Intelligent Applications.
 *   ✍️ **Interests:** Machine Learning (ML), Artificial Intelligence (AI), Generative AI (GenAI), MLOps, DevOps, and Prompt Engineering.

@@ -26,10 +26,10 @@
 
 I am a **Machine Learning Developer** passionate about building intelligent systems, exploring Deep Learning architectures, and developing interactive web applications. I love bridging the gap between advanced AI modeling (especially in medical diagnostics and cognitive load analysis) and modern user interfaces.
 
-*   🏫 **Education:** Studying Computer Engineering at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**.
+*   🏫 **Education:** Studying Computer Engineering at **Kadi Sarva Vishwavidyalaya (LDRP), Gandhinagar**.
 *   💻 **Currently Building:** Temporal Deep Learning models to analyze cognitive patterns, alongside developing responsive web applications.
-*   🔍 **Focus Areas:** Deep Learning, Medical Image Classification (Colon Cancer Detection), Cognitive Load Modeling, and Full-Stack Web Development.
-*   ✍️ **Interests:** Tech Blogging, Public Speaking, UI/UX Design, and Prompt Engineering.
+*   🔍 **Focus Areas:** Deep Learning, Medical Imaging AI, Generative AI (LLMs), and Full-Stack Intelligent Applications.
+*   ✍️ **Interests:** Machine Learning (ML), Artificial Intelligence (AI), Generative AI (GenAI), MLOps, DevOps, and Prompt Engineering.
 
 ---
 

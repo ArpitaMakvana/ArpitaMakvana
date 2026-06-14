@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/arpita-makwana-3a7a57269" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:arpitamakvana2000@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">

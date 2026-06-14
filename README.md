@@ -2,7 +2,7 @@
   <h1>👋 Hi there, I'm Arpita Makwana!</h1>
   
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Deep+Learning+%26+NLP;Full+Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;Deep+Learning+%26+NLP" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/arpita-makwana-3a7a57269" target="_blank">
